@@ -8,6 +8,14 @@
 <h4> Stage 4: Add extra features </h4>
 More features include: Graphs, summary charts
 
+<h4>Reference/Emulate Systems</h4>
+👍 React Invoice Generator: <br>
+https://github.com/tuanpham-dev/react-invoice-generator<br>
+👍 Invoice with smooth animations: <br>
+https://github.com/hiriski/react-simple-invoice-generator<br>
+👍 Receipt for Receipts Generator: <br>
+https://github.com/hourmeng12/invoice-generator
+
 <h4> Future: WhatsApp API integration to send invoices and pending payments </h4>
 # Getting Started with Create React App
 
