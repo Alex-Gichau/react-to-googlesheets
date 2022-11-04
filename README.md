@@ -2,8 +2,11 @@
 <h4> Stage 1: Simple Database w/ Google Sheets </h4>
 <img src="https://user-images.githubusercontent.com/52883664/197627276-d99d2f75-9e64-46ce-bcda-86569bb317d7.png" alt="Simple interface"/>
 
-<h4> Stage 2: Generate user workflow to obtain invoices </h4>
-
+<h4> Stage 2: Generate user workflow to obtain invoices: </h4>
+<p>User will access via heroku app, bill and </p>
+<p>User will access via heroku app, bill and </p>
+<p>User will access via heroku app, bill and </p>
+<p>User will access via heroku app, bill and </p>
 <h4> Stage 3: Design & Implement User Interface  </h4>
 <h4> Stage 4: Add extra features </h4>
 More features include: Graphs, summary charts
