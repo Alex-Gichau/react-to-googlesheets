@@ -38,5 +38,8 @@ Some example projects similar to a React-to-Google Sheets integration include:
 3. A survey or feedback form app that stores responses in a Google Sheets spreadsheet and displays analytics using React components.
 4. An inventory management system where users can manage stock levels and product information stored in a Google Sheets spreadsheet using a React dashboard.
 5. A collaborative document editing app where multiple users can simultaneously edit content in a Google Sheets spreadsheet within a React interface.
+6. A duty rotter where individuals are assigned tasks and get to work on them and finish.
+7. A trip website where they get to match various categories of trips to amount and venue, perhaps any more details
+
 
 These projects demonstrate various ways to integrate React with Google Sheets for different use cases such as data management, reporting, and collaboration.
